@@ -1,23 +1,32 @@
-﻿
-## Oiii eu sou o Leandro Oliveira, desenvolvedor de software!
+## Título do Projeto
 
-<div style="display: inline_block"><br>
-<p></p>Desde 2020, tenho estado a frequentar o curso profissional de Técnico de Informática - Sistemas, onde adquiri conhecimentos em linguagens como C, C++, HTML e PHP. </p>
-<p>Esta formação decorreu na Escola Secundária Marquês Castilho, em Águeda. Para além disso, tive a oportunidade de aprender a linguagem React ao desenvolver um projeto para uma empresa durante o meu estágio. </p><p>Atualmente, estou a frequentar o curso de Programação de Sistemas Informáticos na Universidade de Aveiro (ESTGA), onde estou a aprender Python.</p>
-</div>
+Breve descrição do projeto.
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+### Exemplo de Animação CSS
 
-</div>
-  
-  ##
- 
-<div> 
-  <a href="https://www.linkedin.com/in/leandro-oliveira-63670720b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Animated Text</title>
+  <style>
+    @import url('https://fonts.googleapis.com/css?family=Roboto:700');
+
+    /* ... (seu CSS aqui) ... */
+
+    /* Exemplo do CSS fornecido */
+  </style>
+</head>
+<body>
+  <div id="container">
+    Make
+    <div id="flip">
+      <div><div>lifeStyle</div></div>
+    </div>
+    AweSoMe!
+  </div>
+
+  <p>a CSS3 animation demo</p>
+</body>
+</html>
