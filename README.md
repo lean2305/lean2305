@@ -1,6 +1,8 @@
 ## Oiii eu sou o Leandro Oliveira, desenvolvedor de software!
 
-
+<div style="display: inline_block"><br>
+<p></p>Desde 2020, tenho estado a frequentar o curso profissional de Técnico de Informática - Sistemas, onde adquiri conhecimentos em linguagens como C, C++, HTML e PHP. Esta formação decorreu na Escola Secundária Marquês Castilho, em Águeda. Para além disso, tive a oportunidade de aprender a linguagem React ao desenvolver um projeto para uma empresa durante o meu estágio. Atualmente, estou a frequentar o curso de Programação de Sistemas Informáticos na Universidade de Aveiro (ESTGA), onde estou a aprender Python.<p>
+</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
