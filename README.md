@@ -1,88 +1,23 @@
-﻿<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Animated Text</title>
-  <style>
-    @import url('https://fonts.googleapis.com/css?family=Roboto:700');
+﻿
+## Oiii eu sou o Leandro Oliveira, desenvolvedor de software!
 
-    body {
-      margin: 0px;
-      font-family: 'Roboto';
-      text-align: center;
-    }
+<div style="display: inline_block"><br>
+<p></p>Desde 2020, tenho estado a frequentar o curso profissional de Técnico de Informática - Sistemas, onde adquiri conhecimentos em linguagens como C, C++, HTML e PHP. </p>
+<p>Esta formação decorreu na Escola Secundária Marquês Castilho, em Águeda. Para além disso, tive a oportunidade de aprender a linguagem React ao desenvolver um projeto para uma empresa durante o meu estágio. </p><p>Atualmente, estou a frequentar o curso de Programação de Sistemas Informáticos na Universidade de Aveiro (ESTGA), onde estou a aprender Python.</p>
+</div>
 
-    #container {
-      color: #999;
-      text-transform: uppercase;
-      font-size: 36px;
-      font-weight: bold;
-      padding-top: 200px;
-      position: fixed;
-      width: 100%;
-      bottom: 45%;
-      display: block;
-    }
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 
-    #flip {
-      height: 50px;
-      overflow: hidden;
-    }
-
-    #flip > div > div {
-      color: #fff;
-      padding: 4px 12px;
-      height: 45px;
-      margin-bottom: 45px;
-      display: inline-block;
-    }
-
-    #flip div:first-child {
-      animation: show 5s linear infinite;
-    }
-
-    #flip div div {
-      background: #42c58a;
-    }
-
-    #flip div:first-child div {
-      background: #4ec7f3;
-    }
-
-    #flip div:last-child div {
-      background: #DC143C;
-    }
-
-    @keyframes show {
-      0% { margin-top: -270px; }
-      5% { margin-top: -180px; }
-      33% { margin-top: -180px; }
-      38% { margin-top: -90px; }
-      66% { margin-top: -90px; }
-      71% { margin-top: 0px; }
-      99.99% { margin-top: 0px; }
-      100% { margin-top: -270px; }
-    }
-
-    p {
-      position: fixed;
-      width: 100%;
-      bottom: 30px;
-      font-size: 12px;
-      color: #999;
-      margin-top: 200px;
-    }
-  </style>
-</head>
-<body>
-  <div id="container">
-    Make
-    <div id="flip">
-      <div><div>lifeStyle</div></div>
-    </div>
-    AweSoMe!
-  </div>
-
-  <p>a CSS3 animation demo</p>
-</body>
-</html>
+</div>
+  
+  ##
+ 
+<div> 
+  <a href="https://www.linkedin.com/in/leandro-oliveira-63670720b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
