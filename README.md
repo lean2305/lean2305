@@ -3,7 +3,7 @@
 
 <div style="display: inline_block"><br>
 <p></p>Desde 2020, tenho estado a frequentar o curso profissional de Técnico de Informática - Sistemas, onde adquiri conhecimentos em linguagens como C, C++, HTML e PHP. </p>
-<p>Esta formação decorreu na Escola Secundária Marquês Castilho, em Águeda. Para além disso, tive a oportunidade de aprender a linguagem React ao desenvolver um projeto para uma empresa durante o meu estágio. </p><p>Atualmente, estou a frequentar o curso de Programação de Sistemas Informáticos na Universidade de Aveiro (ESTGA), onde aprendi PYTHON</p>
+<p>Esta formação decorreu na Escola Secundária Marquês Castilho, em Águeda. Para além disso, tive a oportunidade de aprender a linguagem React ao desenvolver um projeto para uma empresa durante o meu estágio. </p>
 </div>
 
 <div style="display: inline_block"><br>
